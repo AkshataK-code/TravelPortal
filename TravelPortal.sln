@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPortal", "TravelPortal\TravelPortal.csproj", "{5F8307AA-2725-463A-8A4F-06034C2642EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPortalUnitTests", "TravelPortalTests\TravelPortalUnitTests.csproj", "{62ECB688-12A8-4449-9998-5AA957520205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8307AA-2725-463A-8A4F-06034C2642EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8307AA-2725-463A-8A4F-06034C2642EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8307AA-2725-463A-8A4F-06034C2642EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8307AA-2725-463A-8A4F-06034C2642EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62ECB688-12A8-4449-9998-5AA957520205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ECB688-12A8-4449-9998-5AA957520205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ECB688-12A8-4449-9998-5AA957520205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ECB688-12A8-4449-9998-5AA957520205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52522B1-F840-4A49-B668-2F4D49318410}
+	EndGlobalSection
+EndGlobal
